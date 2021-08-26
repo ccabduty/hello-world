@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccabduty
-- 👀 I’m interested in a career change into Software Development.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in a career change into AWS Solutions Architecture.
+- 🌱 I’m currently learning AWS and Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on a career change journey.
 - 📫 How to reach me - mailto: ccabduty@gmail.com
 
